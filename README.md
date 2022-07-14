@@ -21,5 +21,5 @@ Here is the place I will share my notebooks and codes from Kaggle Machine Learni
 - MLXTend
 
 ## 🔥 Competitions
-[Spaceship Titanic](https://github.com/thiago-osorio/kaggle-competitions/blob/main/spaceship-titanic/spaceship-titanic.ipynb)
-[Santander Customer Transaction Prediction](https://github.com/thiago-osorio/kaggle-competitions/blob/main/santander-customer-transaction-prediction/santander-customer-transaction-prediction.ipynb)
+- [Spaceship Titanic](https://github.com/thiago-osorio/kaggle-competitions/blob/main/spaceship-titanic/spaceship-titanic.ipynb)
+- [Santander Customer Transaction Prediction](https://github.com/thiago-osorio/kaggle-competitions/blob/main/santander-customer-transaction-prediction/santander-customer-transaction-prediction.ipynb)
