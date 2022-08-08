@@ -7,7 +7,7 @@
 ---
 ## 🆘 Description
 
-Here is the place I will share my notebooks and codes from Kaggle Machine Learning Competitions. By the way, my Kaggle Profile is avaliable [`here`](https://www.kaggle.com/tqueiroz33)
+Here is the place I will share my notebooks and codes from Kaggle Machine Learning Competitions. By the way, my Kaggle Profile is available [`here`](https://www.kaggle.com/tqueiroz33)
 
 ## 💻 Technologies Used
 - Python
