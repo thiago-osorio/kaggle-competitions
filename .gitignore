@@ -1,0 +1,5 @@
+amex-default-prediction/data
+*.ipynb_checkpoints
+*.csv
+.DS_Store
+*/.DS_Store
