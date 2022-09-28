@@ -23,3 +23,4 @@ Here is the place I will share my notebooks and codes from Kaggle Machine Learni
 ## 🔥 Competitions
 - [Spaceship Titanic](https://github.com/thiago-osorio/kaggle-competitions/blob/main/spaceship-titanic/spaceship-titanic.ipynb)
 - [Santander Customer Transaction Prediction](https://github.com/thiago-osorio/kaggle-competitions/blob/main/santander-customer-transaction-prediction/santander-customer-transaction-prediction.ipynb)
+- [American Express Default Prediction](https://github.com/thiago-osorio/kaggle-competitions/blob/main/amex-default-prediction/notebooks/model.ipynb)
